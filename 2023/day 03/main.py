@@ -1,7 +1,7 @@
 """
 Advent of Code 2023 : Day 3
 ===========================
-Seyni DIOP : https://gitlab.com/seyni_diop/advent-of-code
+Seyni DIOP : https://github.com/seyni-diop/adventofcode
 """
 
 import re
